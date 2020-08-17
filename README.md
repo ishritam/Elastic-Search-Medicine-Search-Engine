@@ -5,4 +5,5 @@ An end to end strategy to make a Medicine Search Engine using Elastic Search fro
 
 
 Project URL: https://osso-shritam.herokuapp.com/
-Medium Blog: 
+Medium Blog: https://medium.com/@shritam/the-making-of-a-medicine-search-engine-using-elastic-search-from-scratch-using-python-522003510643?sk=cfb581b56adb6355edae520c40b856eb
+
