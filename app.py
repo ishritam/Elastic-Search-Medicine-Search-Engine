@@ -20,7 +20,8 @@ def pipe():
     data = request.form.get("data")
     payload = {}
     headers= {}
-    url = " https://osso-wildcard.herokuapp.com/autocomplete?query="+str(data)
+    #api for match phrase prefix query
+    url = " https://osso-*******.herokuapp.com/autocomplete?query="+str(data)
     #url = "http://127.0.0.1:4000/autocomplete?query="+str(data)
     response = requests.request("GET", url, headers=headers, data = payload)
     return response.json()
