@@ -1,7 +1,7 @@
 # Elastic-Search-Medicine-Search-Engine
 An end to end strategy to make a Medicine Search Engine using Elastic Search from scratch in Python.
 
-![image](https://user-images.githubusercontent.com/40149802/90404912-aed8ae00-e0c0-11ea-87b5-6f372f9c4a7a.png)
+blob:https://medium.com/1074e258-d9ae-42d4-847c-22e13621e00d
 
 
 Project URL: https://osso-shritam.herokuapp.com/
