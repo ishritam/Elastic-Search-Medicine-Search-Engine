@@ -1,3 +1,5 @@
+import warnings
+warnings.filterwarnings("ignore")
 from flask import Flask
 from flask import request,redirect,render_template,session, jsonify
 import requests
