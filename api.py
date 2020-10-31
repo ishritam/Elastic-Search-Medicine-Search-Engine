@@ -1,3 +1,5 @@
+import warnings
+warnings.filterwarnings("ignore")
 try:
     from flask import app,Flask
     from flask_restful import Resource, Api, reqparse
