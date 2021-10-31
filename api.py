@@ -2,6 +2,7 @@
 import warnings
 warnings.filterwarnings("ignore")
 
+# Try Block
 try:
     from flask import app,Flask
     from flask_restful import Resource, Api, reqparse
@@ -14,7 +15,7 @@ try:
 except Exception as e:
     print("Modules Missing {}".format(e))
 
-
+# Flask app
 app = Flask(__name__)
 api = Api(app)
 
